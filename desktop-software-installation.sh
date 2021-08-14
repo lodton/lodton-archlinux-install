@@ -4,7 +4,7 @@ pacman -S xorg
 #i3
 #pacman -S gdm i3
 
-#pacman -S sddm i3
+pacman -S sddm i3
 
 #gnome
 #pacman -S gnome
