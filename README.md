@@ -4,5 +4,5 @@
 ## mirrorlist.sh    重写mirrorslist
 ## pacstrap.sh      基础系统安装
 ## system-boot.sh    系统引导
-## desktop-software-install.sh    桌面与常用软件安装(安装sddm和i3)
+## desktop-software-install.sh    桌面与常用软件安装(安装sddm和i3)，显卡驱动nvidia
 ## chinese.sh    中文化
