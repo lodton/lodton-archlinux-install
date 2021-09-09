@@ -16,4 +16,4 @@ echo "LANG=en_US.UTF-8" >  /etc/locale.conf
 
 #add new user
 useradd -m -G wheel -s zsh lodton
-passwd lodton
+#passwd lodton

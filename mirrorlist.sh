@@ -22,4 +22,3 @@ echo -n "Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch"  >> /etc/
 echo -n "Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch"  >> /etc/pacman.d/mirrorlist
 echo -n "Server = https://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch"  >> /etc/pacman.d/mirrorlist
 echo -n "Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch"  >> /etc/pacman.d/mirrorlist
-
