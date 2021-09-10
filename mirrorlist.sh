@@ -1,4 +1,4 @@
-echo  "Server = http://mirrors.163.com/archlinux/\$repo/os/\$arch"                   >> /etc/pacman.d/mirrorlist
+echo  "Server = http://mirrors.163.com/archlinux/\$repo/os/\$arch"                   > /etc/pacman.d/mirrorlist
 echo  "Server = http://mirrors.bfsu.edu.cn/archlinux/\$repo/os/\$arch"               >> /etc/pacman.d/mirrorlist
 echo  "Server = https://mirrors.bfsu.edu.cn/archlinux/\$repo/os/\$arch"              >> /etc/pacman.d/mirrorlist
 echo  "Server = http://mirrors.cqu.edu.cn/archlinux/\$repo/os/\$arch"                >> /etc/pacman.d/mirrorlist
